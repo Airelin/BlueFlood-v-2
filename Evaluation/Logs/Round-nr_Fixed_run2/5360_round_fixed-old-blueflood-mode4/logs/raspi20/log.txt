@@ -1,0 +1,26 @@
+1632524244452391 picocom v3.1
+1632524244455786 
+1632524244459039 port is        : /dev/serial/by-id/usb-SEGGER_J-Link_000683635444-if00
+1632524244462353 flowcontrol    : RTS/CTS
+1632524244465578 baudrate is    : 115200
+1632524244468786 parity is      : none
+1632524244472163 databits are   : 8
+1632524244475364 stopbits are   : 1
+1632524244478585 escape is      : C-a
+1632524244481832 local echo is  : no
+1632524244485121 noinit is      : no
+1632524244488315 noreset is     : no
+1632524244491605 hangup is      : no
+1632524244494928 nolock is      : no
+1632524244498101 send_cmd is    : sz -vv
+1632524244501486 receive_cmd is : rz -vv -E
+1632524244504807 imap is        : lfcrlf,
+1632524244508043 omap is        : 
+1632524244511343 emap is        : crcrlf,delbs,
+1632524244514551 logfile is     : none
+1632524244517785 initstring     : none
+1632524244521039 exit_after is  : not set
+1632524244524306 exit is        : no
+1632524244527528 
+1632524244530827 Type [C-a] [C-h] to see available commands
+1632524244534135 Terminal ready
